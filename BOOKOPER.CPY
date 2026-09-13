@@ -1,0 +1,23 @@
+       01  IN-REC.
+           05 IN-NUM-CTRL-IF           PIC X(020).
+           05 IN-CNPJ-BASE-EFX         PIC X(008).
+           05 IN-DT-TRANSACAO          PIC X(010).
+           05 IN-TP-OPERACAO           PIC X(001).
+           05 IN-FORMA-TP-OPERACAO     PIC X(001).
+           05 IN-REG-OP-CAML           PIC 9(012).
+           05 IN-CNPJ-CPF-CONTRAPARTE  PIC X(014). 
+           05 IN-TP-PESSOA-USU         PIC X(001).
+           05 IN-IDENT-PESSOA-USU      PIC X(025).
+           05 IN-NOME-USU              PIC X(080).
+           05 IN-COD-PAIS-USU          PIC X(002).
+           05 IN-TP-TRANSACAO          PIC X(002).
+           05 IN-INDR-TRANSACAO        PIC X(001).
+           05 IN-NOME-INTM-EXTR        PIC X(100).
+           05 IN-COD-PAIS-INTM-EXTR    PIC X(002).
+           05 IN-NOME-DEST-REM-EXTR    PIC X(0100).
+           05 IN-COD-PAIS-DEST-EXTR    PIC X(002).
+           05 IN-COD-MOEDA-ISO         PIC X(003).
+           05 IN-COD-FORMA-ENTR-MN     PIC X(001).
+           05 IN-VLR-ME                PIC 9(19)V99.
+           05 IN-VLR-MN                PIC 9(19)V99.
+           05 IN-VLR-MN-EFT-ENTR       PIC 9(19)V99.

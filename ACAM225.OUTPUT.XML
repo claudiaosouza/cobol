@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOC xmlns="http://www.bcb.gov.br/MES/ACAM225.xsd">
+<BCARQ>
+<IdentdEmissor>60746948</IdentdEmissor>
+<IdentdDestinatario>00038166</IdentdDestinatario>
+</BCARQ>
+<SISARQ>
+<ACAM225>
+<NomArq>ACAM225</NomArq>
+<CNPJBaseInf>00038166</CNPJBaseInf>
+<MesAnoReferencia>2026-08</MesAnoReferencia>
+
+
+</ACAM225>
+</SISARQ>
+</DOC>
